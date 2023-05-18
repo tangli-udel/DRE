@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Results on Terra Incognita
 
-Illustration of data distributions of the Dog class in Terra Incognita dataset:
+Illustration of explanations from different data distributions in the Dog class of Terra Incognita dataset:
 
 ![demo](figures/expect_output.png)
 
