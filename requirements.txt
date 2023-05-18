@@ -1,0 +1,7 @@
+pandas
+matplotlib
+torch==1.12.1
+torchvision==0.13.1
+numpy
+Pillow
+captum
