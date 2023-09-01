@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ## Data Download
 To download the datasets, please run:
 ```
-python download.py
+python download.py --data_dir=./data
 ```
 Please note that some URLs may not work due to various factors. You can copy the URLs and download them manually.
 
