@@ -23,6 +23,12 @@ To this end, we propose Distributionally Robust Explanation (DRE) that, inspired
 ![method](figures/method.png)
 
 
+## Pretrained Weights
+DRE models:
+- Terra Incognita: [[tst_env=0](https://drive.google.com/file/d/1rm57wOaoCcNl7n1vzOswKdSPI8gkXkcB/view?usp=drive_link)] [[tst_env=1](https://drive.google.com/file/d/1vZ-QvWMEo4tUFUvxR6bmduUYotNGpeg9/view?usp=drive_link)] [[tst_env=2](https://drive.google.com/file/d/1Be_6spJHP_IXyYwlOq4BLnS_OQ7WzgdL/view?usp=drive_link)] [[tst_env=3](https://drive.google.com/file/d/1r4UYOi2P1QmW2idyhsSW_DFI816WuAbj/view?usp=drive_link)]
+- VLCS: [[tst_env=0](https://drive.google.com/file/d/1xR3fHmBOzR715fmHVTBjX0Ke-pdP1pZW/view?usp=drive_link)] [[tst_env=1](https://drive.google.com/file/d/1rwr2y9ewjUtEm2bx0j0WAougdxHfc6gc/view?usp=drive_link)] [[tst_env=2](https://drive.google.com/file/d/1B0OfbQYbqJyNbuvLk9RKH_3AcMxSms2O/view?usp=drive_link)] [[tst_env=3](https://drive.google.com/file/d/1DNkuHlIJ7dF9eaOKqDFdQlV-30cmc1aq/view?usp=drive_link)]
+
+
 ## Quick Start
 This repository reproduces our results on Terra Incognita and VLCS, which is build upon Python3, Pytorch v1.12.1, and CUDA v10.2 on Ubuntu 18.04.
 Please install all required packages by running:
