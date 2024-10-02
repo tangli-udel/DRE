@@ -1,5 +1,5 @@
-# Are Data-driven Explanations Robust against Out-of-distribution Data? (CVPR 2024)
-[[Paper](https://arxiv.org/pdf/2303.16390.pdf)] [[Code](https://github.com/tangli-udel/DRE)] [[Video](https://www.youtube.com/watch?v=4-8zMdB83x8)] [[DeepREAL Lab](https://deep-real.github.io/)]
+# Are Data-driven Explanations Robust against Out-of-distribution Data? (CVPR 2023)
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Are_Data-Driven_Explanations_Robust_Against_Out-of-Distribution_Data_CVPR_2023_paper.pdf)] [[Code](https://github.com/tangli-udel/DRE)] [[Video](https://www.youtube.com/watch?v=4-8zMdB83x8)] [[DeepREAL Lab](https://deep-real.github.io/)]
 
 This repository holds the Pytorch implementation of **Distributionally Robust Explanations (DRE)** in [Are Data-driven Explanations Robust against Out-of-distribution Data?](https://arxiv.org/pdf/2303.16390.pdf) by Tang Li, Fengchun Qiao, Mengmeng Ma, and Xi Peng.
 If you find our code useful in your research, please consider citing:
